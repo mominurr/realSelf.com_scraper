@@ -2,6 +2,17 @@
 
 This project is designed to scrape comprehensive data from [RealSelf.com](https://www.realself.com/), a popular platform featuring profiles of cosmetic and medical professionals. By overcoming advanced security barriers, this scraper collects detailed information on practitioners, including ratings, reviews, specialties, and contact details.
 
+# ⚠️ **Important Notice: Business Use Only** ⚠️
+
+This repository is for **demonstration purposes only** and **not for free use**. It showcases my professional expertise in **web scraping** and **automation**.
+
+🚫 **Unauthorized use, redistribution, or modification is strictly prohibited.**
+
+💼 **For custom web scraping and automation solutions, please contact me directly for professional, business-focused services.**
+
+📩 [Get in Touch](https://mominur.dev)
+
+
 ## Project Description
 
 RealSelf.com employs advanced security measures to prevent unauthorized data scraping, including **PerimeterX** and **HSTS**. These technologies use **IP blocking** and **Press & Hold captchas** to detect and block bots. This project successfully bypasses these barriers to provide complete and structured data on professionals listed on the platform. Sample data files (`realself_sample_data.json` and `realself_sample_data.csv`) are included for easy access and understanding of the dataset.
